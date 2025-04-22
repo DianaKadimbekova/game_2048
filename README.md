@@ -22,9 +22,11 @@
 Follow these steps to set up the project locally
 
 1. Clone the repo
+```
 git clone https://dianakadimbekova.github.io/game_2048/
 cd game_2048
-2. Install dependencies
+```
+3. Install dependencies
 ```
 npm install
 or

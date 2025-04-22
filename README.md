@@ -23,7 +23,7 @@ Follow these steps to set up the project locally
 
 1. Clone the repo
 ```
-git clone https://github.com/dianakadimbekova/game_2048.git
+git clone https://github.com/DianaKadimbekova/game_2048.git
 cd game_2048
 ```
 3. Install dependencies
